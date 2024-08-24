@@ -1,0 +1,70 @@
+
+Fugacity coefficient for CO2 (phi) = 0.7111502965531952
+Equilibrium constant for H2O (kw) = 0.012074364479339487
+Vapor phase mole fraction of H2O (y) = 0.01187503692128993
+Henry's coefficient for CO2 (h) = 3518.60886247783 bar
+Liquid phase mole fraction of CO2 (x) = 0.01651065535001516
+
+
+Fugacity coefficient for CO2 (phi) = 0.6499534551281583
+Equilibrium constant for H2O (kw) = 0.009729860826925807
+Vapor phase mole fraction of H2O (y) = 0.009551557302346508
+Henry's coefficient for CO2 (h) = 3603.5260918397457 bar
+Liquid phase mole fraction of CO2 (x) = 0.018327065131416916
+
+
+Fugacity coefficient for CO2 (phi) = 0.5565073642640062
+Equilibrium constant for H2O (kw) = 0.007262576589108009
+Vapor phase mole fraction of H2O (y) = 0.007115750884726865
+Henry's coefficient for CO2 (h) = 3756.485846970493 bar
+Liquid phase mole fraction of CO2 (x) = 0.020217774961217346
+
+
+Fugacity coefficient for CO2 (phi) = 0.49060966619545343
+Equilibrium constant for H2O (kw) = 0.005827666221763144
+Vapor phase mole fraction of H2O (y) = 0.0057031286297145245
+Henry's coefficient for CO2 (h) = 3910.532239541893 bar
+Liquid phase mole fraction of CO2 (x) = 0.02137075771166683
+
+
+Fugacity coefficient for CO2 (phi) = 0.46006156046726726
+Equilibrium constant for H2O (kw) = 0.005194124652874054
+Vapor phase mole fraction of H2O (y) = 0.005080107518197357
+Henry's coefficient for CO2 (h) = 4008.441584007755 bar
+Liquid phase mole fraction of CO2 (x) = 0.021951740643321525
+
+
+Fugacity coefficient for CO2 (phi) = 0.8760358237109774
+Equilibrium constant for H2O (kw) = 0.024226692373180893
+Vapor phase mole fraction of H2O (y) = 0.024026787023685957
+Henry's coefficient for CO2 (h) = 4231.249804744029 bar
+Liquid phase mole fraction of CO2 (x) = 0.00825621656193219
+
+
+Fugacity coefficient for CO2 (phi) = 0.7625724561512132
+Equilibrium constant for H2O (kw) = 0.011963045531925162
+Vapor phase mole fraction of H2O (y) = 0.011795204989304878
+Henry's coefficient for CO2 (h) = 4440.214614606426 bar
+Liquid phase mole fraction of CO2 (x) = 0.014031869773406348
+
+
+Fugacity coefficient for CO2 (phi) = 0.7134860389328358
+Equilibrium constant for H2O (kw) = 0.009638787551095176
+Vapor phase mole fraction of H2O (y) = 0.009484959268232448
+Henry's coefficient for CO2 (h) = 4542.823925677489 bar
+Liquid phase mole fraction of CO2 (x) = 0.01596073389620508
+
+
+Fugacity coefficient for CO2 (phi) = 0.636818752383948
+Equilibrium constant for H2O (kw) = 0.007192803672250026
+Vapor phase mole fraction of H2O (y) = 0.007060563716742595
+Henry's coefficient for CO2 (h) = 4727.344962286593 bar
+Liquid phase mole fraction of CO2 (x) = 0.018385952714707457
+
+
+Fugacity coefficient for CO2 (phi) = 0.5994215580398263
+Equilibrium constant for H2O (kw) = 0.006281829623045487
+Vapor phase mole fraction of H2O (y) = 0.006160041650101198
+Henry's coefficient for CO2 (h) = 4835.679608195122 bar
+Liquid phase mole fraction of CO2 (x) = 0.019388076692346268
+
